@@ -1,3 +1,3 @@
 LARAVEL
 
-Boilerplate including Laravel9 Inertia and Vuetify 3
+Boilerplate for Laravel9 Inertia Sanctum and Vuetify 3
